@@ -1,0 +1,8 @@
+C:\Users\Desktop\source\repos\DS-NOTA\bin\Debug\DS-NOTA.exe.config
+C:\Users\Desktop\source\repos\DS-NOTA\bin\Debug\DS-NOTA.exe
+C:\Users\Desktop\source\repos\DS-NOTA\bin\Debug\DS-NOTA.pdb
+C:\Users\Desktop\source\repos\DS-NOTA\obj\Debug\DS-NOTA.csproj.AssemblyReference.cache
+C:\Users\Desktop\source\repos\DS-NOTA\obj\Debug\DS-NOTA.csproj.SuggestedBindingRedirects.cache
+C:\Users\Desktop\source\repos\DS-NOTA\obj\Debug\DS-NOTA.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\source\repos\DS-NOTA\obj\Debug\DS-NOTA.exe
+C:\Users\Desktop\source\repos\DS-NOTA\obj\Debug\DS-NOTA.pdb

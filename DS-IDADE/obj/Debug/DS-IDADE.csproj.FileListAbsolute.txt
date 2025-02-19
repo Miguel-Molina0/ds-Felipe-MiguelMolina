@@ -1,0 +1,8 @@
+C:\Users\Desktop\source\repos\DS-IDADE\bin\Debug\DS-IDADE.exe.config
+C:\Users\Desktop\source\repos\DS-IDADE\bin\Debug\DS-IDADE.exe
+C:\Users\Desktop\source\repos\DS-IDADE\bin\Debug\DS-IDADE.pdb
+C:\Users\Desktop\source\repos\DS-IDADE\obj\Debug\DS-IDADE.csproj.AssemblyReference.cache
+C:\Users\Desktop\source\repos\DS-IDADE\obj\Debug\DS-IDADE.csproj.SuggestedBindingRedirects.cache
+C:\Users\Desktop\source\repos\DS-IDADE\obj\Debug\DS-IDADE.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\source\repos\DS-IDADE\obj\Debug\DS-IDADE.exe
+C:\Users\Desktop\source\repos\DS-IDADE\obj\Debug\DS-IDADE.pdb

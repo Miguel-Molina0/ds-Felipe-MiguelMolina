@@ -1,0 +1,8 @@
+C:\Users\Desktop\source\repos\DS-TRIANGULO\bin\Debug\DS-TRIANGULO.exe.config
+C:\Users\Desktop\source\repos\DS-TRIANGULO\bin\Debug\DS-TRIANGULO.exe
+C:\Users\Desktop\source\repos\DS-TRIANGULO\bin\Debug\DS-TRIANGULO.pdb
+C:\Users\Desktop\source\repos\DS-TRIANGULO\obj\Debug\DS-TRIANGULO.csproj.AssemblyReference.cache
+C:\Users\Desktop\source\repos\DS-TRIANGULO\obj\Debug\DS-TRIANGULO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Desktop\source\repos\DS-TRIANGULO\obj\Debug\DS-TRIANGULO.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\source\repos\DS-TRIANGULO\obj\Debug\DS-TRIANGULO.exe
+C:\Users\Desktop\source\repos\DS-TRIANGULO\obj\Debug\DS-TRIANGULO.pdb

@@ -1,0 +1,8 @@
+C:\Users\Desktop\source\repos\DS-DIFERENCANUMERO\bin\Debug\DS-DIFERENCANUMERO.exe.config
+C:\Users\Desktop\source\repos\DS-DIFERENCANUMERO\bin\Debug\DS-DIFERENCANUMERO.exe
+C:\Users\Desktop\source\repos\DS-DIFERENCANUMERO\bin\Debug\DS-DIFERENCANUMERO.pdb
+C:\Users\Desktop\source\repos\DS-DIFERENCANUMERO\obj\Debug\DS-DIFERENCANUMERO.csproj.AssemblyReference.cache
+C:\Users\Desktop\source\repos\DS-DIFERENCANUMERO\obj\Debug\DS-DIFERENCANUMERO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Desktop\source\repos\DS-DIFERENCANUMERO\obj\Debug\DS-DIFERENCANUMERO.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\source\repos\DS-DIFERENCANUMERO\obj\Debug\DS-DIFERENCANUMERO.exe
+C:\Users\Desktop\source\repos\DS-DIFERENCANUMERO\obj\Debug\DS-DIFERENCANUMERO.pdb

@@ -1,0 +1,8 @@
+C:\Users\Desktop\source\repos\DS-CALENDARIO\bin\Debug\DS-CALENDARIO.exe.config
+C:\Users\Desktop\source\repos\DS-CALENDARIO\bin\Debug\DS-CALENDARIO.exe
+C:\Users\Desktop\source\repos\DS-CALENDARIO\bin\Debug\DS-CALENDARIO.pdb
+C:\Users\Desktop\source\repos\DS-CALENDARIO\obj\Debug\DS-CALENDARIO.csproj.AssemblyReference.cache
+C:\Users\Desktop\source\repos\DS-CALENDARIO\obj\Debug\DS-CALENDARIO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Desktop\source\repos\DS-CALENDARIO\obj\Debug\DS-CALENDARIO.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\source\repos\DS-CALENDARIO\obj\Debug\DS-CALENDARIO.exe
+C:\Users\Desktop\source\repos\DS-CALENDARIO\obj\Debug\DS-CALENDARIO.pdb
