@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Jo ken po\Jo ken po\obj\Debug\net8.0\Jo ken po.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Jo ken po\Jo ken po\obj\Debug\net8.0\Jo ken po.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Jo ken po\Jo ken po\obj\Debug\net8.0\Jo ken po.AssemblyInfo.cs
+C:\Users\user\source\repos\Jo ken po\Jo ken po\obj\Debug\net8.0\Jo ken po.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Jo ken po\Jo ken po\bin\Debug\net8.0\Jo ken po.exe
+C:\Users\user\source\repos\Jo ken po\Jo ken po\bin\Debug\net8.0\Jo ken po.deps.json
+C:\Users\user\source\repos\Jo ken po\Jo ken po\bin\Debug\net8.0\Jo ken po.runtimeconfig.json
+C:\Users\user\source\repos\Jo ken po\Jo ken po\bin\Debug\net8.0\Jo ken po.dll
+C:\Users\user\source\repos\Jo ken po\Jo ken po\bin\Debug\net8.0\Jo ken po.pdb
+C:\Users\user\source\repos\Jo ken po\Jo ken po\obj\Debug\net8.0\Jo ken po.dll
+C:\Users\user\source\repos\Jo ken po\Jo ken po\obj\Debug\net8.0\refint\Jo ken po.dll
+C:\Users\user\source\repos\Jo ken po\Jo ken po\obj\Debug\net8.0\Jo ken po.pdb
+C:\Users\user\source\repos\Jo ken po\Jo ken po\obj\Debug\net8.0\Jo ken po.genruntimeconfig.cache
+C:\Users\user\source\repos\Jo ken po\Jo ken po\obj\Debug\net8.0\ref\Jo ken po.dll

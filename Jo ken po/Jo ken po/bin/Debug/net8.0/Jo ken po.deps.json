@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Jo ken po/1.0.0": {
+        "runtime": {
+          "Jo ken po.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Jo ken po/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
